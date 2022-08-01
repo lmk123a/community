@@ -3,7 +3,7 @@ package com.nowcoder.community;
 import com.nowcoder.community.dao.AlphaDao;
 import com.nowcoder.community.dao.AlphaDaoHibernateImpl;
 import com.nowcoder.community.service.AlphaService;
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.BeansException;
 import org.springframework.beans.factory.annotation.Autowired;
